@@ -1,0 +1,13 @@
+body {
+  font-family: open-sans;
+}
+.searchbar {
+  width: 400px;
+  height: 40px;
+  border: 1px solid #cccccc;
+  margin: 10px;
+  padding: 0px 20px;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 400;
+}
